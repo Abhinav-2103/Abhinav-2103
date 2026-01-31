@@ -1,32 +1,21 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-  font=JetBrains+Mono
-  &size=32
-  &duration=2600
-  &pause=700
-  &color=8B5CF6
-  &center=true
-  &vCenter=true
-  &width=900
-  &lines=Hey+there+👋;I'm+Abhinav+Thakur;Tech+Explorer+🚀;AI+%26+Web+Enthusiast+🤖;Frontend+Developer+💻" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=2600&pause=700&color=8B5CF6&center=true&vCenter=true&width=900&lines=Hey+there+👋;I'm+Abhinav+Thakur;Tech+Explorer+🚀;AI+%26+Web+Enthusiast+🤖;Frontend+Developer+💻" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Abhinav-2103/Abhinav-2103/main/assets/banner.gif" />
 </p>
 
-<h2 align="center">Hi 👋, I'm Abhinav Thakur</h2>
-
 <p align="center">
-  🎨 Frontend UI Enthusiast • 🧠 DSA Explorer (Java) • 🌱 Backend Curious
+  🎨 <b>Frontend UI Enthusiast</b> • 🧠 <b>DSA Explorer (C++)</b> • 🌱 <b>Backend Curious</b>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech 2nd Year Student passionate about building **clean, meaningful, and aesthetic digital experiences**  
-💡 Frontend-focused developer with hands-on experience in **HTML, CSS, JavaScript, and React**  
+🎓 **B.Tech 2nd Year Student** passionate about building clean, meaningful, and aesthetic digital experiences  
+🎨 Frontend-focused developer with hands-on experience in **HTML, CSS, JavaScript, and React**  
 🧠 Comfortable with **Data Structures & Algorithms (C++)**, actively improving problem-solving skills  
 🌱 Currently exploring **backend fundamentals (Node.js, APIs)** and **Full Stack (MERN)** concepts step-by-step  
 📖 Curious, consistent learner who enjoys both **UI creation** and **logical problem solving**
@@ -88,9 +77,6 @@
   <a href="mailto:itsabhi2103@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://github.com/Abhinav-2103">
-    <img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white&style=for-the-badge" />
-  </a>
   <a href="https://leetcode.com/u/itsabhi_2103/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" />
   </a>
@@ -100,7 +86,6 @@
 
 ## ✨ Quote of the Day
 
-> *“Turning curiosity into code, one project at a time.”*
-
+> *“Curiosity drives learning — consistency turns it into skill.”*
 
 ⭐ Thanks for visiting! Feel free to explore my repositories and follow my learning journey.
