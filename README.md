@@ -25,11 +25,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhinav-2103&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Abhinav-2103&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -44,18 +44,25 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/YOUR_ACTUAL_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:YOUR_ACTUAL_EMAIL">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Abhinav-2103">
     <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" />
   </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE">
+  <a href="https://leetcode.com/YOUR_ACTUAL_LEETCODE">
     <img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&style=for-the-badge" />
   </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abhinav-2103/snake/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -64,8 +71,3 @@
 > *“The best way to predict the future is to create it.”* — Peter Drucker  
 
 ⭐ **Thanks for visiting! Don’t forget to star repositories you like**
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abhinav-2103/snake/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
