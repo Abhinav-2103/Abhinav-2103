@@ -1,21 +1,15 @@
+<!-- 🔥 TYPING INTRO (FIXED – SINGLE LINE URL) -->
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=2600&pause=700&color=8B5CF6&center=true&vCenter=true&width=900&lines=Hey+there+👋;I'm+Abhinav+Thakur;Tech+Explorer+🚀;AI+%26+Web+Enthusiast+🤖;Frontend+Developer+💻" 
-    alt="Typing Intro"
-  />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=32&duration=2600&pause=700&color=8B5CF6&center=true&vCenter=true&width=900&lines=Hey+there+👋;I'm+Abhinav+Thakur;Tech+Explorer+🚀;AI+%26+Web+Enthusiast+🤖;Frontend+Developer+💻" />
+</p>
+
+<!-- 🎨 NEON BANNER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abhinav-2103/Abhinav-2103/main/assets/banner.gif" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Abhinav-2103/Abhinav-2103/main/assets/banner.gif" 
-    alt="Banner"
-  />
-</p>
-
-<p align="center">
-  🎨 <b>Frontend UI Enthusiast</b> &nbsp;•&nbsp;
-  🧠 <b>DSA Explorer (C++)</b> &nbsp;•&nbsp;
-  🌱 <b>Backend Curious</b>
+  🎨 <b>Frontend UI Enthusiast</b> • 🧠 <b>DSA Explorer (C++)</b> • 🌱 <b>Backend Curious</b>
 </p>
 
 ---
@@ -24,17 +18,17 @@
 
 🎓 **B.Tech 2nd Year Student** passionate about building clean, meaningful & aesthetic digital experiences  
 🎨 Frontend-focused with hands-on experience in **HTML, CSS, JavaScript & React**  
-🧠 Comfortable with **Data Structures & Algorithms (C++)**, actively improving problem-solving  
-🌱 Exploring **backend fundamentals (Node.js, APIs)** and **MERN stack concepts** step-by-step  
-📖 Curious, consistent learner who enjoys both **UI creation** and **logical problem solving**
+🧠 Strong foundation in **Data Structures & Algorithms (C++)**, improving daily  
+🌱 Exploring **backend fundamentals (Node.js, APIs)** & **MERN stack** step-by-step  
+📖 Curious, consistent learner who enjoys both **UI creation** & **logical problem solving**
 
 ---
 
-## 🔥 What I’m Working On Right Now
+## 🔥 What I’m Working On
 
-✨ Improving frontend UI/UX through real projects  
-🧩 Practicing DSA & problem solving regularly  
-🌱 Learning backend basics (Node.js, APIs)  
+✨ Building better UI/UX with real frontend projects  
+🧩 Practicing DSA & problem-solving consistently  
+🌱 Learning backend basics (Node.js, REST APIs)  
 🎯 Preparing for internships & technical interviews  
 
 ---
@@ -47,18 +41,14 @@
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats (STABLE)
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Abhinav-2103&show_icons=true&theme=radical&hide_border=true" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhinav-2103&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=Abhinav-2103&theme=radical&hide_border=true" 
-  />
+  <img src="https://streak-stats.demolab.com?user=Abhinav-2103&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -66,10 +56,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Abhinav-2103/Snake/output/github-contribution-grid-snake-dark.svg" 
-    alt="Contribution Snake"
-  />
+  <img src="https://raw.githubusercontent.com/Abhinav-2103/Snake/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -86,7 +73,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhinav-thakur2103/" target="_blank">
+  <a href="https://www.linkedin.com/in/abhinav-thakur2103/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="mailto:itsabhi2103@gmail.com">
@@ -104,6 +91,6 @@
 
 ## ✨ Quote of the Day
 
-> *“Curiosity starts the journey — consistency completes it.”* 🚀
+> *“Curiosity starts the journey — consistency finishes it.”* 🚀
 
-⭐ Thanks for visiting! Feel free to explore my repositories and follow my learning journey.
+⭐ **Thanks for visiting!** Feel free to explore my repositories and follow my learning journey.
