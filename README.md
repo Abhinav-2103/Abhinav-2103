@@ -1,61 +1,45 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="520"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Abhinav Thakur</h1>
-<h3 align="center">Frontend Developer | B.Tech 2nd Year Student | Aspiring Full Stack Developer</h3>
+<h1 align="center">Hey 👋 I'm Abhinav Thakur</h1>
+<h3 align="center">
+🚀 Full Stack (MERN) Learner | 💻 Java & JavaScript | 🎯 Internship Seeker
+</h3>
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 B.Tech 2nd Year Undergraduate Student  
-- 💻 Frontend Developer with a passion for clean & interactive UI  
-- 🌱 Currently learning **Full Stack Development (MERN)** & **AI/ML**  
-- 🧠 Strong foundation in **Data Structures & Algorithms (C++)**  
-- 🚀 Love building projects & exploring new technologies  
+## 🔥 What I’m Focused On Right Now
+✨ Building real-world **Full Stack (MERN)** projects  
+✨ Strengthening **Java + JavaScript fundamentals**  
+✨ Preparing for **internships & technical interviews**  
+✨ Writing clean, readable, and scalable code  
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🧠 About Me
+- 🎓 B.Tech 2nd Year Undergraduate  
+- 🌱 Learning **MongoDB, Express, React, Node.js**
+- 💡 Comfortable with **HTML, CSS, JavaScript, Java**
+- 🧩 Interested in backend logic & frontend UI both  
+- 🚀 Believe in learning by **building projects**
+
+---
+
+## 🛠️ Tech Stack (Core Skills)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,python,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity (Proof of Work)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhinav-2103&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?username=Abhinav-2103&theme=radical&hide_border=true" />
-</p>
-
----
-
-## 🚀 Currently Exploring
-- 🔥 Full Stack Development (MERN)
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧩 Open Source Contributions
-- 📚 Advanced DSA Concepts
-
----
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_ACTUAL_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-  </a>
-  <a href="mailto:YOUR_ACTUAL_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Abhinav-2103">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" />
-  </a>
-  <a href="https://leetcode.com/YOUR_ACTUAL_LEETCODE">
-    <img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&style=for-the-badge" />
-  </a>
 </p>
 
 ---
@@ -67,7 +51,22 @@
 
 ---
 
-## ✨ Quote of the Day
-> *“The best way to predict the future is to create it.”* — Peter Drucker  
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&style=for-the-badge" />
+  </a>
+  <a href="https://leetcode.com/YOUR_LEETCODE">
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?logo=leetcode&style=for-the-badge" />
+  </a>
+</p>
 
-⭐ **Thanks for visiting! Don’t forget to star repositories you like**
+---
+
+## ✨ Quote I Live By
+> *“Consistency beats motivation.”* ⚡
+
+⭐ Thanks for visiting — feel free to explore my repositories!
