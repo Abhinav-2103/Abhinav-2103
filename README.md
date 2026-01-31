@@ -64,3 +64,8 @@
 > *“The best way to predict the future is to create it.”* — Peter Drucker  
 
 ⭐ **Thanks for visiting! Don’t forget to star repositories you like**
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abhinav-2103/snake/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
