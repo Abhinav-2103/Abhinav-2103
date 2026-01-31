@@ -2,38 +2,39 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="520"/>
 </p>
 
-<h1 align="center">Hey 👋 I'm Abhinav Thakur</h1>
+<h1 align="center">Hi 👋, I'm Abhinav Thakur</h1>
+
 <h3 align="center">
-🚀 Full Stack (MERN) Learner | 💻 Java & JavaScript | 🎯 Internship Seeker
+🎨 Frontend UI Developer • ⚙️ Strong DSA Foundations (C++) • 🌱 Exploring Backend & MERN
 </h3>
 
 ---
 
-## 🔥 What I’m Focused On Right Now
-✨ Building real-world **Full Stack (MERN)** projects  
-✨ Strengthening **Java + JavaScript fundamentals**  
-✨ Preparing for **internships & technical interviews**  
-✨ Writing clean, readable, and scalable code  
+## 👨‍💻 About Me
+🎓 B.Tech 2nd Year Student passionate about building meaningful and aesthetic digital experiences.  
+🎨 Frontend-focused developer skilled in **HTML, CSS, JavaScript, and React**.  
+⚙️ Strong foundation in **Data Structures & Algorithms (C++)**, focused on clean and efficient problem-solving.  
+🌱 Currently exploring **backend development (Node.js, APIs)** and **Full Stack (MERN)** concepts.  
+📖 Curious, consistent learner who enjoys both **UI creation** and **logical problem solving**.
 
 ---
 
-## 🧠 About Me
-- 🎓 B.Tech 2nd Year Undergraduate  
-- 🌱 Learning **MongoDB, Express, React, Node.js**
-- 💡 Comfortable with **HTML, CSS, JavaScript, Java**
-- 🧩 Interested in backend logic & frontend UI both  
-- 🚀 Believe in learning by **building projects**
+## 🔥 What I’m Working On Right Now
+✨ Improving frontend UI/UX skills with real projects  
+✨ Practicing DSA regularly using C++  
+✨ Learning backend fundamentals step by step  
+✨ Preparing for **internships and technical interviews**
 
 ---
 
-## 🛠️ Tech Stack (Core Skills)
+## 🛠️ Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Activity (Proof of Work)
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhinav-2103&show_icons=true&theme=radical&hide_border=true" />
 </p>
@@ -48,6 +49,15 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Abhinav-2103/snake/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
+---
+
+## 📘 Currently Exploring
+🎨 Advanced Frontend UI (React, modern CSS)  
+⚡ Backend fundamentals (Node.js, APIs)  
+📗 Data Structures & Algorithms (C++)  
+🤖 Artificial Intelligence & Machine Learning  
+🧩 Open Source Contributions  
 
 ---
 
@@ -66,7 +76,7 @@
 
 ---
 
-## ✨ Quote I Live By
+## ✨ Quote I Believe In
 > *“Consistency beats motivation.”* ⚡
 
-⭐ Thanks for visiting — feel free to explore my repositories!
+⭐ Thanks for visiting! Feel free to explore my repositories.
